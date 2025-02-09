@@ -8,7 +8,7 @@
 - 🛠️ Developing cutting-edge AI-based solutions
 
 ## 📌 Featured Repository
-### [AllenceAi](https://github.com/allenceai/AllenceAi)
+### [AllenceAi](https://ansh-aillm.vercel.app/))
 - 🚀 **Tech Stack:** JavaScript, AI APIs
 - 🌟 Created by: [──❖ | ᴧηsʜ ꭙ sᴧɴᴧᴛᴧɴɪ | ❖──](https://github.com/allenceai)
 - 🔗 Open-source and growing!

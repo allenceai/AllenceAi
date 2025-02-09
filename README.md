@@ -10,7 +10,7 @@
 ## 📌 Featured Repository
 ### [AllenceAi](https://github.com/allenceai/AllenceAi)
 - 🚀 **Tech Stack:** JavaScript, AI APIs
-- 🌟 Created by: [Ansh × Sanatan](https://github.com/allenceai)
+- 🌟 Created by: [──❖ | ᴧηsʜ ꭙ sᴧɴᴧᴛᴧɴɪ | ❖──](https://github.com/allenceai)
 - 🔗 Open-source and growing!
 
 ## 📈 Contributions
